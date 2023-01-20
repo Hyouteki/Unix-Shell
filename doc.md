@@ -17,21 +17,25 @@
     echo
     clear
     ```
-- **Options**
-    - **ls**
+- **Command options**
+    - **ls**<br>
     *-a: for listing all the files along with the hidden files*<br>
     *-m: for listing the files seperated by commas*<br>
-3) cat {
-    -E: for printing the content with highlighting the line endings
-    -n: for printing the content with line numbers }
-4) date {}
-5) mkdir {
-    -m: for creating a directory with specific permissions
-    -v: for verbose(ly) making the directory }
-6) rm {
-    -i: for asking confirmation before removing the file
-    -v: for verbose(ly) removing the file }
+    <br> 
+    - **cat**<br>
+    *-E: for printing the content with highlighting the line endings*
+    *-n: for printing the content with line numbers*<br>
+    <br>
+    - **mkdir**<br>
+    *-m: for creating a directory with specific permissions*<br>
+    *-v: for verbose(ly) making the directory*<br>
+    <br>
+    - **rm**<br>
+    *-i: for asking confirmation before removing the file*<br>
+    *-v: for verbose(ly) removing the file*<br>
+    - **else**<br>
+    *&t: for executing command using threads*<br>
 
-== Error handled ==
-1) Multiple &t error
-2) Wrong command error
+# Error handled
+- **Multiple &t error**
+- **Wrong command error**
