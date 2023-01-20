@@ -1,22 +1,22 @@
 # Assumptions
-1. **Taking max characters in a command to be 100**<br>
-2. **Taking max words in a command to be 10**<br>
+- **Taking max characters in a command to be 100**<br>
+- **Taking max words in a command to be 10**<br>
 
 # Information
-1. **CUSTOM SHELL can perform 11 total commands** 
-```
-cd
-pwd
-exit
-ls
-cat
-date
-rm
-mkdir
-help
-echo
-clear
- ```
+- **CUSTOM SHELL can perform 11 total commands** 
+    ```
+    cd
+    pwd
+    exit
+    ls
+    cat
+    date
+    rm
+    mkdir
+    help
+    echo
+    clear
+    ```
 2) ls {
     -a: for listing all the files along with the hidden files
     -m: for listing the files seperated by commas }
