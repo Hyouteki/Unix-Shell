@@ -20,18 +20,16 @@
 - **Command options**
     - **ls**<br>
     *-a: for listing all the files along with the hidden files*<br>
-    *-m: for listing the files seperated by commas*<br>
+    *-m: for listing the files seperated by commas*<br><br>
     - **cat**<br>
-    *-E: for printing the content with highlighting the line endings*
-    *-n: for printing the content with line numbers*<br>
-    <!-- <br> -->
+    *-E: for printing the content with highlighting the line endings*<br>
+    *-n: for printing the content with line numbers*<br><br>
     - **mkdir**<br>
     *-m: for creating a directory with specific permissions*<br>
-    *-v: for verbose(ly) making the directory*<br>
-    <!-- <br> -->
+    *-v: for verbose(ly) making the directory*<br><br>
     - **rm**<br>
     *-i: for asking confirmation before removing the file*<br>
-    *-v: for verbose(ly) removing the file*<br>
+    *-v: for verbose(ly) removing the file*<br><br>
     - **else**<br>
     *&t: for executing command using threads*<br>
 
