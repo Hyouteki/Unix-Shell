@@ -36,3 +36,21 @@
 # Error handled
 - **Multiple &t error**
 - **Wrong command error**
+
+# How to use
+
+## Step 1
+**Download all the (.c) files and Makefile**
+
+## Step 2
+**Run commands**
+```
+make install
+make compile
+```
+
+## Step 3
+**To use the shell; run command**
+```
+make launch
+```
