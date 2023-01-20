@@ -275,7 +275,7 @@ bool cmd_mngr_thread(char *input_str, char *input_space_spr[MAX_STR_LEN])
     {
         printf("@@ Thank you for using CUSTOM SHELL made by Chauhan Lakshay @@\n");
         exit(0);
-    }
+    }https://github.com/Hyouteki/Unix-Shell.git
     else if (!strcmp(input_space_spr[0], cmds[3])) // ls
     {
         exec_cmd_thread(input_str);

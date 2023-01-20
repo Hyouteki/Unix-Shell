@@ -13,3 +13,11 @@ compile:
 
 clean: 
 	rm -f shell
+deep-clean:
+	rm -f cat
+	rm -f date
+	rm -f ls
+	rm -f mkdir
+	rm -f rm
+	make clean
+	
