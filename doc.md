@@ -17,9 +17,10 @@
     echo
     clear
     ```
-2) ls {
-    -a: for listing all the files along with the hidden files
-    -m: for listing the files seperated by commas }
+- **Options**
+    - **ls**
+    *-a: for listing all the files along with the hidden files*
+    *-m: for listing the files seperated by commas*
 3) cat {
     -E: for printing the content with highlighting the line endings
     -n: for printing the content with line numbers }
